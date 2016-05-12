@@ -1,0 +1,10 @@
+c:\users\walee\documents\visual studio 2015\Projects\OSS\OSS\bin\Debug\OSS.exe.config
+c:\users\walee\documents\visual studio 2015\Projects\OSS\OSS\bin\Debug\OSS.exe
+c:\users\walee\documents\visual studio 2015\Projects\OSS\OSS\bin\Debug\OSS.pdb
+c:\users\walee\documents\visual studio 2015\Projects\OSS\OSS\obj\Debug\OSS.csprojResolveAssemblyReference.cache
+c:\users\walee\documents\visual studio 2015\Projects\OSS\OSS\obj\Debug\OSS.Form1.resources
+c:\users\walee\documents\visual studio 2015\Projects\OSS\OSS\obj\Debug\OSS.Properties.Resources.resources
+c:\users\walee\documents\visual studio 2015\Projects\OSS\OSS\obj\Debug\OSS.csproj.GenerateResource.Cache
+c:\users\walee\documents\visual studio 2015\Projects\OSS\OSS\obj\Debug\OSS.exe
+c:\users\walee\documents\visual studio 2015\Projects\OSS\OSS\obj\Debug\OSS.pdb
+C:\Users\walee\Documents\Visual Studio 2015\Projects\OSS\OSS\obj\Debug\OSS.Form2.resources

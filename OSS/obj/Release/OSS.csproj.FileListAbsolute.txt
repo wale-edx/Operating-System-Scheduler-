@@ -1,0 +1,9 @@
+C:\Users\walee\Documents\Visual Studio 2015\Projects\OSS\OSS\bin\Release\OSS.exe.config
+C:\Users\walee\Documents\Visual Studio 2015\Projects\OSS\OSS\bin\Release\OSS.exe
+C:\Users\walee\Documents\Visual Studio 2015\Projects\OSS\OSS\bin\Release\OSS.pdb
+C:\Users\walee\Documents\Visual Studio 2015\Projects\OSS\OSS\obj\Release\OSS.Form1.resources
+C:\Users\walee\Documents\Visual Studio 2015\Projects\OSS\OSS\obj\Release\OSS.Form2.resources
+C:\Users\walee\Documents\Visual Studio 2015\Projects\OSS\OSS\obj\Release\OSS.Properties.Resources.resources
+C:\Users\walee\Documents\Visual Studio 2015\Projects\OSS\OSS\obj\Release\OSS.csproj.GenerateResource.Cache
+C:\Users\walee\Documents\Visual Studio 2015\Projects\OSS\OSS\obj\Release\OSS.exe
+C:\Users\walee\Documents\Visual Studio 2015\Projects\OSS\OSS\obj\Release\OSS.pdb
